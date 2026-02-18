@@ -1,0 +1,4 @@
+langchain
+langchian_community
+langchian_google_genai
+python-dotenv
